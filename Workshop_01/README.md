@@ -1,4 +1,4 @@
-Workshop AR VR -- Component Unity
+# Workshop AR VR -- Component Unity
 
   
   
@@ -10,7 +10,7 @@ Tout se fera directement par l’éditeur Unity, vous n'aurez donc pas besoin d�
 
   
 
-1.  Introduction
+## 1.  Introduction
     
 
 Pour le premier exercice vous aurez des modules comme montré sur l’image ci-dessous:
@@ -25,7 +25,7 @@ Vous n’avez évidemment pas le droit de désactiver/retirer/ajouter les compos
 
 Faîtes également bien attention de sélectionner le cube et non le module.
 
-2. Exercice
+## 2. Exercice
 
 Une fois le premier module terminé, vous pourrez passer au second.
 
