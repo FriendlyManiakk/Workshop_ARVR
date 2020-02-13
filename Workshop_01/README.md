@@ -42,11 +42,10 @@ Pour des raisons évidentes, vous n’aurez pas le droit d’effectuer les actio
 -   Ajouter ou retirer des objets de la scène.
     
 -   Modifier l’un des composants suivant:
-    
 
--   [Box/Mesh/Capsule]Collider
+    +   [Box/Mesh/Capsule]Collider
     
--   Transform
+    +   Transform
     
 
 Vous n’avez également le droit qu'à un seul évènement par UnityEvent
